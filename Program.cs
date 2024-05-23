@@ -20,21 +20,16 @@ using (HttpClient client = new HttpClient())
 
             string responseBody = await response.Content.ReadAsStringAsync();
 
-            using (JsonDocument doc = JsonDocument.Parse(responseBody))
-            {
+            boredapi contents = JsonSerializer.Deserialize<boredapi>(responseBody);
 
-                JsonElement root = doc.RootElement;
+            Console.WriteLine($"atividade: {contents.activity}");
+            Console.WriteLine($"type: {contents.type}");
+            Console.WriteLine($"participants: {contents.participants}");
+            Console.WriteLine($"atividade: {contents.price}");
+            Console.WriteLine($"atividade: {contents.link}");
+            Console.WriteLine($"atividade: {contents.key}");
+            Console.WriteLine($"atividade: {contents.accessibility}");
 
-                if (root.TryGetProperty("activity", out JsonElement ElementoAtividade))
-                {
-                    string atividade = ElementoAtividade.ToString();
-
-                    Console.WriteLine("Response from API:");
-                    Console.WriteLine(atividade);
-
-                }
-
-            }
         }
         else
         {
@@ -45,4 +40,16 @@ using (HttpClient client = new HttpClient())
     {
         Console.WriteLine($"An error occurred while making the request: {ex.Message}");
     }
+}
+
+
+public class boredapi
+{
+    public string activity { get; set; }
+    public string type { get; set; }
+    public int participants { get; set; }
+    public float price { get; set; }
+    public string link { get; set; }
+    public string key { get; set; }
+    public float accessibility { get; set; }
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruanl\\OneDrive\\Desktop\\usando_api\\usando_api.csproj",
+      "projectUniqueName": "C:\\Users\\ruanl\\OneDrive\\Desktop\\git\\broing_api\\test_boredapi\\usando_api.csproj",
       "projectName": "usando_api",
-      "projectPath": "C:\\Users\\ruanl\\OneDrive\\Desktop\\usando_api\\usando_api.csproj",
+      "projectPath": "C:\\Users\\ruanl\\OneDrive\\Desktop\\git\\broing_api\\test_boredapi\\usando_api.csproj",
       "packagesPath": "C:\\Users\\ruanl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruanl\\OneDrive\\Desktop\\usando_api\\obj\\",
+      "outputPath": "C:\\Users\\ruanl\\OneDrive\\Desktop\\git\\broing_api\\test_boredapi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

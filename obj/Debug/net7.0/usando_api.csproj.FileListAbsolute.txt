@@ -12,3 +12,17 @@ C:\Users\ruanl\OneDrive\Desktop\usando_api\obj\Debug\net7.0\refint\usando_api.dl
 C:\Users\ruanl\OneDrive\Desktop\usando_api\obj\Debug\net7.0\usando_api.pdb
 C:\Users\ruanl\OneDrive\Desktop\usando_api\obj\Debug\net7.0\usando_api.genruntimeconfig.cache
 C:\Users\ruanl\OneDrive\Desktop\usando_api\obj\Debug\net7.0\ref\usando_api.dll
+C:\Users\ruanl\OneDrive\Desktop\git\broing_api\test_boredapi\bin\Debug\net7.0\usando_api.exe
+C:\Users\ruanl\OneDrive\Desktop\git\broing_api\test_boredapi\bin\Debug\net7.0\usando_api.deps.json
+C:\Users\ruanl\OneDrive\Desktop\git\broing_api\test_boredapi\bin\Debug\net7.0\usando_api.runtimeconfig.json
+C:\Users\ruanl\OneDrive\Desktop\git\broing_api\test_boredapi\bin\Debug\net7.0\usando_api.dll
+C:\Users\ruanl\OneDrive\Desktop\git\broing_api\test_boredapi\bin\Debug\net7.0\usando_api.pdb
+C:\Users\ruanl\OneDrive\Desktop\git\broing_api\test_boredapi\obj\Debug\net7.0\usando_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruanl\OneDrive\Desktop\git\broing_api\test_boredapi\obj\Debug\net7.0\usando_api.AssemblyInfoInputs.cache
+C:\Users\ruanl\OneDrive\Desktop\git\broing_api\test_boredapi\obj\Debug\net7.0\usando_api.AssemblyInfo.cs
+C:\Users\ruanl\OneDrive\Desktop\git\broing_api\test_boredapi\obj\Debug\net7.0\usando_api.csproj.CoreCompileInputs.cache
+C:\Users\ruanl\OneDrive\Desktop\git\broing_api\test_boredapi\obj\Debug\net7.0\usando_api.dll
+C:\Users\ruanl\OneDrive\Desktop\git\broing_api\test_boredapi\obj\Debug\net7.0\refint\usando_api.dll
+C:\Users\ruanl\OneDrive\Desktop\git\broing_api\test_boredapi\obj\Debug\net7.0\usando_api.pdb
+C:\Users\ruanl\OneDrive\Desktop\git\broing_api\test_boredapi\obj\Debug\net7.0\usando_api.genruntimeconfig.cache
+C:\Users\ruanl\OneDrive\Desktop\git\broing_api\test_boredapi\obj\Debug\net7.0\ref\usando_api.dll
